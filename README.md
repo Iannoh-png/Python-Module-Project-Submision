@@ -14,5 +14,5 @@ List of tools and libraries used in the project
 
 To view the project, save ythe submitted file then open the file usin your jupyter notebook application
 Upload the submitted csv file to the notebook to be able to run efficiently
-alternatively click on the link submitted above to open the project via google colab
+Alternatively click on the link submitted above to open the project via google colab
 
