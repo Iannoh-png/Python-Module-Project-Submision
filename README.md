@@ -16,3 +16,6 @@ To view the project, save ythe submitted file then open the file usin your jupyt
 Upload the submitted csv file to the notebook to be able to run efficiently
 Alternatively click on the link submitted above to open the project via google colab
 [My Project Work Link](https://colab.research.google.com/drive/1CNqto36VwuGhEiBAeAP7lgK40L_O7pbK?usp=sharing)
+[Dataset Used for this project](https://www.kaggle.com/datasets/caesarmario/our-world-in-data-covid19-dataset)
+Download the data from the above link. Thi is the data that was used in the project.
+NOTICE❗❗❗❗❗- PlEASE SAVE THE DATASET AS 'covid data' to enable the notebook to read the data
